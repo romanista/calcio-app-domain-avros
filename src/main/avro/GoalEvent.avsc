@@ -1,0 +1,11 @@
+{
+	"type": "record",
+	"name": "GoalEvent",
+	"namespace": "com.rdiachuk.calcio.event.match",
+	"fields": [
+		{"name": "match_id", "type":"int", "doc": "Match ID"},
+		{"name": "team_id", "type":"int", "doc": "Team ID"},
+		{"name": "player_id", "type":"int", "doc": "Player ID"},
+		{"name": "minute_of_score", "type":"int", "doc": "Minute of a match the goal was scored"}
+	]
+}
