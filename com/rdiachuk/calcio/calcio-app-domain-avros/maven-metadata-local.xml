@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.rdiachuk.calcio</groupId>
+  <artifactId>calcio-app-domain-avros</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230117121605</lastUpdated>
+  </versioning>
+</metadata>
